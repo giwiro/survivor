@@ -13,7 +13,7 @@ module.exports = {
   plugins: [
     new CleanWebpackPlugin(),
     new HtmlWebpackPlugin({
-      title: 'Pixi.js Demo'
+      title: 'Survivor'
     }),
     /*new CopyPlugin([
       { from: 'src/assets', to: 'assets' },

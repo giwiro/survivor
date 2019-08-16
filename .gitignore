@@ -92,3 +92,6 @@ typings/
 
 # Dist
 .dist/
+
+# OSX
+.DS_Store
